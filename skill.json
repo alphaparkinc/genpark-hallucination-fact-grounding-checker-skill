@@ -1,0 +1,15 @@
+{
+  "name": "genpark-hallucination-fact-grounding-checker-skill",
+  "version": "1.0.0",
+  "description": "Sentence-level fact grounding and hallucination verification engine comparing LLM claims against retrieved source evidence.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "hallucination",
+    "fact-checking",
+    "grounding",
+    "rag",
+    "genpark",
+    "mcp"
+  ]
+}
